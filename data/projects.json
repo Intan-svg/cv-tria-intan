@@ -1,0 +1,42 @@
+[
+  {
+    "id": "proj-1",
+    "title": "BloomCare — Skincare Routine & Tracker App",
+    "category": "Mobile UI/UX & Front-End",
+    "year": "2026",
+    "description": "Desain antarmuka aplikasi pengingat rutinitas skincare harian dengan analisis jenis kulit, jadwal pagi/malam interaktif, dan palet warna pastel lembut yang menenangkan.",
+    "tags": ["Figma", "React Native", "UI/UX Research", "Design System"],
+    "icon": "flower-outline",
+    "highlight": "98% Usability Score"
+  },
+  {
+    "id": "proj-2",
+    "title": "Ma'soem Smart Student Portal Mobile",
+    "category": "Academic App Redesign",
+    "year": "2026",
+    "description": "Perancangan ulang pengalaman pengguna aplikasi akademik mahasiswa untuk memantau jadwal kuliah, presensi QR, Learning Points, dan transkrip nilai secara real-time.",
+    "tags": ["Wireframing", "Figma", "Expo", "Styling/CSS"],
+    "icon": "school-outline",
+    "highlight": "Case Study Kampus"
+  },
+  {
+    "id": "proj-3",
+    "title": "PetalNotes — Aesthetic Journaling & Habit App",
+    "category": "Mobile App Interface",
+    "year": "2025",
+    "description": "Aplikasi pencatatan jurnal harian dan pelacak kebiasaan sehat dengan kustomisasi stiker visual, mood tracker bulanan, serta tipografi yang nyaman dibaca.",
+    "tags": ["React Native", "Figma", "Micro-interactions"],
+    "icon": "book-outline",
+    "highlight": "Interactive Prototype"
+  },
+  {
+    "id": "proj-4",
+    "title": "SweetBite — Artisanal Bakery & Cafe Order App",
+    "category": "E-Commerce Mobile UI",
+    "year": "2025",
+    "description": "Antarmuka pemesanan pastry dan minuman artisan dengan katalog visual bersih, kustomisasi topping interaktif, dan alur checkout ringkas 3 langkah.",
+    "tags": ["UI/UX Research", "Wireframing", "Figma"],
+    "icon": "cafe-outline",
+    "highlight": "Clean Checkout Flow"
+  }
+]

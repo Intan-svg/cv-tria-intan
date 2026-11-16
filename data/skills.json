@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sk-1",
+    "nama": "React Native & Expo",
+    "level": "Proficient"
+  },
+  {
+    "id": "sk-2",
+    "nama": "Laravel & PHP",
+    "level": "Advanced"
+  },
+  {
+    "id": "sk-3",
+    "nama": "Golang (Go)",
+    "level": "Intermediate"
+  },
+  {
+    "id": "sk-4",
+    "nama": "Docker & Laragon",
+    "level": "Proficient"
+  },
+  {
+    "id": "sk-5",
+    "nama": "MySQL & PostgreSQL",
+    "level": "Advanced"
+  },
+  {
+    "id": "sk-6",
+    "nama": "System Analysis (UML/BPMN)",
+    "level": "Advanced"
+  },
+  {
+    "id": "sk-7",
+    "nama": "Tailwind CSS & UI Design",
+    "level": "Proficient"
+  },
+  {
+    "id": "sk-8",
+    "nama": "Git & GitHub",
+    "level": "Proficient"
+  },
+  {
+    "id": "sk-9",
+    "nama": "English Communication",
+    "level": "Professional"
+  }
+]

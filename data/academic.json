@@ -1,0 +1,66 @@
+{
+  "student": {
+    "name": "Tria Intan Oktaviyani",
+    "nim": "242505099",
+    "prodi": "Sistem Informasi",
+    "fakultas": "Fakultas Komputer",
+    "universitas": "Universitas Ma'soem",
+    "semester": "Semester 5 (Non-Reguler)",
+    "role": "Mobile Developer & System Analyst",
+    "bio": "Mahasiswi Sistem Informasi yang berfokus pada pengembangan aplikasi mobile, perancangan antarmuka UI/UX yang interaktif, dan kenyamanan user experience.",
+    "location": "Jatinangor, Sumedang - Jawa Barat",
+    "email": "tria.intan@masoemuniversity.ac.id",
+    "instagram": "@triaintan.dev",
+    "status": "Mahasiswa Aktif"
+  },
+  "course": {
+    "mataKuliah": "Pemrograman Mobile 2",
+    "kodeMK": "SI-502",
+    "dosen": "Iin, M.Kom",
+    "tahunAkademik": "Ganjil 2026/2027"
+  },
+  "currentScore": {
+    "nilai": 92,
+    "grade": "A",
+    "predikat": "Excellent Achievement"
+  },
+  "learningPoints": {
+    "total": 12500,
+    "formatted": "12500 LP",
+    "rankBadge": "Level 9 — Professional"
+  },
+  "progress": [
+    {
+      "id": "prog-1",
+      "title": "Attendance",
+      "subtitle": "Kehadiran perkuliahan & ketepatan waktu",
+      "percentage": 100,
+      "icon": "calendar-outline",
+      "accentColor": "#60A5FA"
+    },
+    {
+      "id": "prog-2",
+      "title": "Practice",
+      "subtitle": "Praktikum mingguan React Native & Expo",
+      "percentage": 90,
+      "icon": "code-slash-outline",
+      "accentColor": "#3B82F6"
+    },
+    {
+      "id": "prog-3",
+      "title": "Quest",
+      "subtitle": "Penyelesaian misi mandiri & studi kasus UI",
+      "percentage": 95,
+      "icon": "sparkles-outline",
+      "accentColor": "#2563EB"
+    },
+    {
+      "id": "prog-4",
+      "title": "Challenge",
+      "subtitle": "Progressive Challenge Level 1 – Level 9",
+      "percentage": 100,
+      "icon": "trophy-outline",
+      "accentColor": "#1D4ED8"
+    }
+  ]
+}
